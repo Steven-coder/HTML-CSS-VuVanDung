@@ -1,0 +1,29 @@
+/* line 1 */
+h1 {
+    text-align: center;
+    color: #006600;
+}
+/* line 2 */
+h2 {
+    color: #0000FF;
+}
+/* line 4 */
+#NameOfPoem {
+    color: #ff3399;
+    background-color: #fecffd;
+    text-align: center;
+    font-weight: bolder;
+}
+#Poem {
+    background-color: #ffffce;
+    text-align: center;
+}
+p:nth-child(1) {
+    color: blue;
+}
+p:nth-child(2) {
+    color: red;
+}
+#p:nth-child(3) {
+    color: green;
+}
